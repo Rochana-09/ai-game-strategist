@@ -1,0 +1,6 @@
+name: ai-game-strategist-env
+
+tasks:
+  - tasks.easy
+  - tasks.medium
+  - tasks.hard
